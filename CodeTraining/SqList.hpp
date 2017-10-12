@@ -11,4 +11,7 @@
 
 #include "Header.h"
 
+bool Del_Min(SqList &, ElemType &);
+void Reverse(SqList &);
+
 #endif /* SqList_hpp */
